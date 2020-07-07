@@ -1,0 +1,7 @@
+{
+    "celeba_path":  "/datasets/celeba",
+    "seed": "smartsenselab",
+    "weights": "weights/smartsenselab0/weights.h5",
+    "outdir": "results/smartsenselab0",
+    "attrs_file": "data/attrs"
+}
